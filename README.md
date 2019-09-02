@@ -1,4 +1,6 @@
-# Reason Unstated
+# Reason Unstated 
+![badge](https://action-badges.now.sh/beizhedenglong/reason-unstated)
+
 `Reason Unstated` is a reason implementation of [`unstated-next`](https://github.com/jamiebuilds/unstated-next).
 A simple state management library that help you share `hook` state and logical easily.
 
@@ -18,7 +20,7 @@ A simple state management library that help you share `hook` state and logical e
   ```
 ## Example
 
-```reasonml
+```reason
 type counterType = {
   count: int,
   set: (int => int) => unit,

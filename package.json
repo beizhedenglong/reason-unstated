@@ -6,7 +6,7 @@
     "start": "bsb -make-world -w",
     "example": "npm run build && parcel ./example/index.html",
     "clean": "bsb -clean-world",
-    "test": "npm run build && jest"
+    "test": "npm run build && jest --coverage"
   },
   "keywords": [
     "BuckleScript"
