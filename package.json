@@ -4,9 +4,9 @@
   "scripts": {
     "build": "bsb -make-world",
     "start": "bsb -make-world -w",
-    "example": "yarn build && parcel ./example/index.html",
+    "example": "npm run build && parcel ./example/index.html",
     "clean": "bsb -clean-world",
-    "test": "yarn build && jest"
+    "test": "npm run build && jest"
   },
   "keywords": [
     "BuckleScript"
