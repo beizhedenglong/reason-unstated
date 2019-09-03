@@ -3,7 +3,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/beizhedenglong/reason-unstated/badge.svg?branch=master)](https://coveralls.io/github/beizhedenglong/reason-unstated?branch=master)
 
 `Reason Unstated` is a reason implementation of [`unstated-next`](https://github.com/jamiebuilds/unstated-next).
-A simple state management library that help you share `hook` state and logical easily.
+A simple state management library that help you share `hook` state and logic easily.
 
 - **Hooks:** Use them for all your state management.
 - **Small Size:** It only contains dozens of lines code. 
